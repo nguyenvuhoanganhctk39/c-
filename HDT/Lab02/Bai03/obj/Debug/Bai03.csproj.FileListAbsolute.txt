@@ -1,0 +1,7 @@
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\bin\Debug\Bai03.exe.config
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\bin\Debug\Bai03.exe
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\bin\Debug\Bai03.pdb
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\obj\Debug\Bai03.exe
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\obj\Debug\Bai03.pdb
+E:\Documents\Study\Nam4\HDT\Lab02\Bai03\obj\Debug\Bai03.csprojAssemblyReference.cache

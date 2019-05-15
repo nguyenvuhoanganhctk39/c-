@@ -1,0 +1,10 @@
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\bin\Debug\Lab03.exe.config
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\bin\Debug\Lab03.exe
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\bin\Debug\Lab03.pdb
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\obj\Debug\Lab03.exe
+E:\Documents\Study\Nam4\HDT\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\Dell 5558\Desktop\c#\HDT\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Dell 5558\Desktop\c#\HDT\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Dell 5558\Desktop\c#\HDT\Lab03\Lab03\obj\Debug\Lab03.pdb

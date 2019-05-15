@@ -1,0 +1,7 @@
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\Documents\Study\Nam4\HDT\Lab02\Lab02\obj\Debug\Lab02.pdb

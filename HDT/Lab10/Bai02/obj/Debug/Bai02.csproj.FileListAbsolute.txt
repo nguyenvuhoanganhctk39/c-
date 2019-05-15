@@ -1,0 +1,6 @@
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\bin\Debug\Bai02.exe.config
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\bin\Debug\Bai02.exe
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\bin\Debug\Bai02.pdb
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\obj\Debug\Bai02.exe
+E:\Documents\Study\Nam4\HDT\Lab10\Bai02\obj\Debug\Bai02.pdb

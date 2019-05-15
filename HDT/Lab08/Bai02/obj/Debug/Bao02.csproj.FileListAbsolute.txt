@@ -1,0 +1,7 @@
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\bin\Debug\Bao02.exe.config
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\bin\Debug\Bao02.exe
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\bin\Debug\Bao02.pdb
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\obj\Debug\Bao02.csprojAssemblyReference.cache
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\obj\Debug\Bao02.csproj.CoreCompileInputs.cache
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\obj\Debug\Bao02.exe
+E:\Documents\Study\Nam4\HDT\Lab08\Bao02\obj\Debug\Bao02.pdb
