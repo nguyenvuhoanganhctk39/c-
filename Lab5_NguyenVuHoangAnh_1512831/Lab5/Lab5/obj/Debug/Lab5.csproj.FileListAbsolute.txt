@@ -1,0 +1,6 @@
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab5\Lab5\obj\Debug\Lab5.pdb

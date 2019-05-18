@@ -1,0 +1,9 @@
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\bin\Debug\Lab3_1510282_NguyenThuyVan.exe.config
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\bin\Debug\Lab3_1510282_NguyenThuyVan.exe
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\bin\Debug\Lab3_1510282_NguyenThuyVan.pdb
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\obj\Debug\Lab3_1510282_NguyenThuyVan.csprojResolveAssemblyReference.cache
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\obj\Debug\Lab3_1510282_NguyenThuyVan.exe
+C:\Users\THUY VAN\Desktop\1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\obj\Debug\Lab3_1510282_NguyenThuyVan.pdb
+C:\Users\Dell 5558\Desktop\c#\labtt\Lab3_1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\bin\Debug\Lab3_1510282_NguyenThuyVan.exe.config
+C:\Users\Dell 5558\Desktop\c#\labtt\Lab3_1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\obj\Debug\Lab3_1510282_NguyenThuyVan.exe
+C:\Users\Dell 5558\Desktop\c#\labtt\Lab3_1510282_NguyenThuyVan_CTK39\Lab3_1510282_NguyenThuyVan\Lab3_1510282_NguyenThuyVan\obj\Debug\Lab3_1510282_NguyenThuyVan.pdb

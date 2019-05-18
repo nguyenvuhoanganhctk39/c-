@@ -1,0 +1,6 @@
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\bin\Debug\1510282_NguyenThuyVan_Lab4.exe.config
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\bin\Debug\1510282_NguyenThuyVan_Lab4.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\bin\Debug\1510282_NguyenThuyVan_Lab4.pdb
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\obj\Debug\1510282_NguyenThuyVan_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\obj\Debug\1510282_NguyenThuyVan_Lab4.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\1510282_NguyenThuyVan_Lab4\1510282_NguyenThuyVan_Lab4\obj\Debug\1510282_NguyenThuyVan_Lab4.pdb

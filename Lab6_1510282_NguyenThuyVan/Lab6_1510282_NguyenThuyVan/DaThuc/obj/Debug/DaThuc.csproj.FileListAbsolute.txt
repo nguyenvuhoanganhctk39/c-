@@ -1,0 +1,6 @@
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\bin\Debug\DaThuc.exe.config
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\bin\Debug\DaThuc.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\bin\Debug\DaThuc.pdb
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\obj\Debug\DaThuc.csprojResolveAssemblyReference.cache
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\obj\Debug\DaThuc.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab6_1510282_NguyenThuyVan\DaThuc\obj\Debug\DaThuc.pdb

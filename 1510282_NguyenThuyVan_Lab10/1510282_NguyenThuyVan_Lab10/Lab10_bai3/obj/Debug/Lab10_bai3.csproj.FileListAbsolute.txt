@@ -1,0 +1,6 @@
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\bin\Debug\Lab10_bai3.exe.config
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\bin\Debug\Lab10_bai3.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\bin\Debug\Lab10_bai3.pdb
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\obj\Debug\Lab10_bai3.exe
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\obj\Debug\Lab10_bai3.pdb
+C:\Users\THUY VAN\Desktop\Nam4_Ky2\LTHDT_K41\1510282_NguyenThuyVan_CTK39\Lab10\Lab10_bai3\obj\Debug\Lab10_bai3.csprojResolveAssemblyReference.cache
