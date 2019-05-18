@@ -1,0 +1,7 @@
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\bin\Debug\Lab7_bai1.exe.config
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\bin\Debug\Lab7_bai1.exe
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\bin\Debug\Lab7_bai1.pdb
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\obj\Debug\Lab7_bai1.csprojAssemblyReference.cache
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\obj\Debug\Lab7_bai1.csproj.CoreCompileInputs.cache
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\obj\Debug\Lab7_bai1.exe
+D:\Hoc_tap\C#_ThayHai\Thuc Hanh\1510277_PhamTrongTuan_Lab7\Lab7\Lab7_bai1\obj\Debug\Lab7_bai1.pdb
